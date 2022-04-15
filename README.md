@@ -1,2 +1,2 @@
 # moru
-A Chrome extension that keeps your tab in MOst Recently Used (MRU) order
+A Chrome extension that keeps your tabs in MOst Recently Used (MRU) order

@@ -1,0 +1,6 @@
+{
+  "name": "moru",
+  "description": "A Chrome extension that keeps your tabs in MOst Recently Used (MRU) order",
+  "version": "1.0",
+  "manifest_version": 3
+}
